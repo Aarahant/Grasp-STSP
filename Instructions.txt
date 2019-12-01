@@ -1,0 +1,8 @@
+Test instances:
+https://www.mech.kuleuven.be/en/cib/op#section-2
+
+Input:
+python + STSP_joined.py + instance + Value for K(Optional, Default 3)
+
+Output:
+Constructive heuristic Profit,	Constructive heuristic Cost,	Constructive heuristic Time (s), Improving heuristic Profit,	Improving heuristic Cost,	Improving heuristic Time (s),	Improving heuristic Rise (%),	K & alpha Profit,	K & alpha Cost,	Total Time (s),	K & alpha Rise (%), Selected alpha value, Path
